@@ -24,7 +24,7 @@ brotli==1.2.0 ; platform_python_implementation != 'PyPy'
     # via flask-compress
 brotlicffi==1.2.0.2 ; platform_python_implementation == 'PyPy'
     # via flask-compress
-certifi==2026.7.22
+certifi==2026.10.19
     # via
     #   curl-cffi
     #   requests
@@ -209,7 +209,7 @@ urllib3==2.8.0
     # via requests
 webencodings==0.6.1
     # via html5lib
-werkzeug==3.1.8
+werkzeug==3.1.9
     # via
     #   flask
     #   flask-cors
